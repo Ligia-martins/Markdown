@@ -2,7 +2,6 @@
 
 1. item one
 2. item two
-2) Lista com parêntesis
   - sublist
   - sublist
 
